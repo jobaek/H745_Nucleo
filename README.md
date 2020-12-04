@@ -1,6 +1,8 @@
 # H745_Nucleo
 For example with STM32H745 Nucleo Board
-
+ 
+ using STM32CubeIDE
+ 
 Refer to the below site
 
 FreeRTOS + LwIP example for STM32H745 Nucleo Board
